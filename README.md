@@ -13,7 +13,6 @@ Project for exam 2022. MIPT eco bot by Samanyuk Evelina, Makarova Anastasia, Kon
 ├── dbworker.py
 ├── helper
 │   └── dbCreate.py
-├── requirements.txt
 └── yandexmap.py
 ```
 | Название файла | Описание |
