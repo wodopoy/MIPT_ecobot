@@ -25,4 +25,3 @@ Project for exam 2022. MIPT eco bot by Samanyuk Evelina, Makarova Anastasia, Kon
 | configStore.sh & helper/ db.Create.py | это вспомогательный скрипт для работы с бд sqlite3 при отладке |
 | db.sqlite | файл бд |
 | .env | енв файл с ключами апи |
---------------------------------------------
